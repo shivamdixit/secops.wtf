@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">secops.wtf</title>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2020-05-21T12:17:38&#43;02:00</updated>
+    <id>https://shivamdixit.github.io/secops.wtf/</id>
+    <link rel="alternate" type="text/html" href="https://shivamdixit.github.io/secops.wtf/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://shivamdixit.github.io/secops.wtf/atom.xml" />
+    <author>
+            <name>Shivam Dixit</name>
+            <uri>https://shivamdixit.github.io/</uri>
+            
+                <email>shivamd001 at gmail.com</email>
+            </author>
+    
+    <generator uri="https://gohugo.io/" version="0.71.0">Hugo</generator>
+</feed>
