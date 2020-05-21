@@ -9,7 +9,7 @@
     <channel>
         <title>secops.wtf</title>
         <link>http://secops.wtf/</link>
-        <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
+        <description>Stories of SecOps failures...</description>
         <generator>Hugo 0.71.0 https://gohugo.io/</generator>
         
             <language>en</language>
@@ -21,7 +21,7 @@
             <webMaster>shivamd001 at gmail.com (Shivam Dixit)</webMaster>
         
         
-        <lastBuildDate>Thu, 21 May 2020 12:37:33 &#43;0200</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2020 13:08:38 &#43;0200</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="http://secops.wtf/rss.xml" />
         
