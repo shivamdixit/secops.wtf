@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>secops.wtf</title>
-        <link>https://shivamdixit.github.io/secops.wtf/</link>
+        <link>http://secops.wtf/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.71.0 https://gohugo.io/</generator>
         
@@ -21,15 +21,15 @@
             <webMaster>shivamd001 at gmail.com (Shivam Dixit)</webMaster>
         
         
-        <lastBuildDate>Thu, 21 May 2020 12:24:13 &#43;0200</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2020 12:37:33 &#43;0200</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://shivamdixit.github.io/secops.wtf/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="http://secops.wtf/rss.xml" />
         
         
             <item>
                 <title>Hello World</title>
-                <link>https://shivamdixit.github.io/secops.wtf/posts/hello-world/</link>
-                <guid isPermaLink="true">https://shivamdixit.github.io/secops.wtf/posts/hello-world/</guid>
+                <link>http://secops.wtf/posts/hello-world/</link>
+                <guid isPermaLink="true">http://secops.wtf/posts/hello-world/</guid>
                 <pubDate>Thu, 21 May 2020 11:14:47 &#43;0200</pubDate>
                 
                     <author>shivamd001 at gmail.com (Shivam Dixit)</author>
