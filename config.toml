@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://secops.wtf/"
+baseURL = "https://shivamdixit.github.io/secops.wtf"
 title = "secops.wtf"
 languageCode = "en"
 hasCJKLanguage = false
@@ -40,6 +40,9 @@ enableRobotsTXT = true
 # lists (valid for the `posts` homepage
 # layout in MemE)
 paginate = 5
+
+# Github pages configuration
+publishDir = "docs"
 
 # URL related
 disablePathToLower = false
