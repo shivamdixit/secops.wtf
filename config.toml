@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "http://secops.wtf"
+baseURL = "https://secops.wtf"
 title = "secops.wtf"
 languageCode = "en"
 hasCJKLanguage = false

@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://secops.wtf/about/</loc>
+    <loc>https://secops.wtf/about/</loc>
     <lastmod>2020-05-21T11:14:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://secops.wtf/</loc>
+    <loc>https://secops.wtf/</loc>
     <lastmod>2020-05-21T11:14:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://secops.wtf/posts/hello-world/</loc>
+    <loc>https://secops.wtf/posts/hello-world/</loc>
     <lastmod>2020-05-21T11:14:47+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://secops.wtf/posts/</loc>
+    <loc>https://secops.wtf/posts/</loc>
     <lastmod>2020-05-21T11:14:47+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://secops.wtf/categories/</loc>
+    <loc>https://secops.wtf/categories/</loc>
   </url>
   
   <url>
-    <loc>http://secops.wtf/tags/</loc>
+    <loc>https://secops.wtf/tags/</loc>
   </url>
   
 </urlset>

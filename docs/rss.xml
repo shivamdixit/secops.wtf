@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>secops.wtf</title>
-        <link>http://secops.wtf/</link>
+        <link>https://secops.wtf/</link>
         <description>Stories of SecOps failures...</description>
         <generator>Hugo 0.71.0 https://gohugo.io/</generator>
         
@@ -21,15 +21,15 @@
             <webMaster>shivamd001 at gmail.com (SecOps.WTF)</webMaster>
         
         
-        <lastBuildDate>Thu, 21 May 2020 13:20:51 &#43;0200</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2020 16:50:21 &#43;0200</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="http://secops.wtf/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://secops.wtf/rss.xml" />
         
         
             <item>
                 <title>Hello World</title>
-                <link>http://secops.wtf/posts/hello-world/</link>
-                <guid isPermaLink="true">http://secops.wtf/posts/hello-world/</guid>
+                <link>https://secops.wtf/posts/hello-world/</link>
+                <guid isPermaLink="true">https://secops.wtf/posts/hello-world/</guid>
                 <pubDate>Thu, 21 May 2020 11:14:47 &#43;0200</pubDate>
                 
                     <author>shivamd001 at gmail.com (SecOps.WTF)</author>

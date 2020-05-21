@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">secops.wtf</title>
     <subtitle type="html">Stories of SecOps failures...</subtitle>
-    <updated>2020-05-21T13:20:51&#43;02:00</updated>
-    <id>http://secops.wtf/</id>
-    <link rel="alternate" type="text/html" href="http://secops.wtf/" />
-    <link rel="self" type="application/atom&#43;xml" href="http://secops.wtf/atom.xml" />
+    <updated>2020-05-21T16:50:21&#43;02:00</updated>
+    <id>https://secops.wtf/</id>
+    <link rel="alternate" type="text/html" href="https://secops.wtf/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://secops.wtf/atom.xml" />
     <author>
             <name>SecOps.WTF</name>
-            <uri>http://secops.wtf/</uri>
+            <uri>https://secops.wtf/</uri>
             
                 <email>shivamd001 at gmail.com</email>
             </author>
@@ -18,8 +18,8 @@
     <generator uri="https://gohugo.io/" version="0.71.0">Hugo</generator>
         <entry>
             <title type="text">Hello World</title>
-            <link rel="alternate" type="text/html" href="http://secops.wtf/posts/hello-world/" />
-            <id>http://secops.wtf/posts/hello-world/</id>
+            <link rel="alternate" type="text/html" href="https://secops.wtf/posts/hello-world/" />
+            <id>https://secops.wtf/posts/hello-world/</id>
             <updated>2020-05-21T11:14:47&#43;02:00</updated>
             <published>2020-05-21T11:14:47&#43;02:00</published>
             <author>
